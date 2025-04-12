@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  mysqldb:
+    image: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: amdaripassword
+      MYSQL_DATABASE: amdaridb
+      MYSQL_USER: amdaridbuser
+      MYSQL_PASSWORD: amdaridbuserppassword
+    volumes:
+      - mysqldb-volume:/var/lib/mysql  # Correct volume definition
+    ports:
+      - 3307:3306
+
+
+
+ 
+
+  postgresdb:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: db
+    volumes:
+      - postgresdb-volume:/var/lib/postgresql/data
+    ports:
+      - "5435:5432"  # Maps host port 5435 to container port 5432
+
+volumes:
+  postgresdb-volume:  # Named volume for PostgreSQL persistent storage
+  mysqldb-volume:     # (Optional) Reserved for future MySQL setup

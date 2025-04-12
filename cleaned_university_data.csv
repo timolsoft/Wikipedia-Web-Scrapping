@@ -1,0 +1,91 @@
+rank,institution,year_founded,affiliation,delivery_method,enrollment,city,country,continent,link
+1,Indira Gandhi National Open University,1985,Public,Hybrid,7140000,New Delhi,India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+2,"National University, Bangladesh",1992,Public,In-Person,3425832,Gazipur,Bangladesh,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+3,Anadolu University,1958,Public,Hybrid,1974343,EskiÅehir,Turkey,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+4,California Community Colleges,1967,Public,In-Person,1800000,California,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+5,Islamic Azad University,1982,Private,In-Person,1778000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+6,Allama Iqbal Open University,1974,Public,Hybrid,1027000,Islamabad,Pakistan,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+7,"Laureate Education, Inc.",1999,Private,Hybrid,875000,,International,Global,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+8,Bangladesh Open University,1992,Public,Distance,650000,Gazipur,Bangladesh,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+9,Universitas Terbuka,1984,Public,Distance,646467,Jakarta,Indonesia,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+10,National Technological Institute of Mexico,1948,Public,In-Person,620000,,Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+11,Savitribai Phule Pune University,1948,Public,In-Person,665000,"Pune,  Maharashtra",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+12,Chaudhary Charan Singh University,1965,Public,In-Person,560000,"Meerut,  Uttar Pradesh",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+13,University of Mumbai,1857,Public,In-Person,549432,"Mumbai,  Maharashtra",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+14,Ramkhamhaeng University,1971,Public,In-Person,525000,Bangkok,Thailand,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+15,National Open University of Nigeria,2002,Public,Distance,515000,,Nigeria,Africa,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+16,California State University system,1857,Public,In-Person,457992,California,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+17,Tribhuvan University,1959,Public,In-Person,454065,Kirtipur,Nepal,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+18,University of the Punjab,1882,Public,In-Person,450000,"Lahore,  Punjab",Pakistan,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+19,Dr. B R Ambedkar Open University,1982,Public,Distance,450000,Telangana,India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+20,State University System of Florida,1954,Public,In-Person,430000,Florida,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+21,University System of Ohio,2007,Public,In-Person,429310,Ohio,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+22,University of Delhi,1922,Public,In-Person,700000,Delhi,India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+23,Payame Noor University,1987,Public,Hybrid,400000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+24,Sikkim Manipal University,1995,Private,In-Person,390000,Sikkim,India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+25,University of South Africa,1873,Public,Distance,370000,"Pretoria,  Gauteng",South Africa,Africa,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+26,State University of New York system,1948,Public,In-Person,363612,New York,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+27,National Autonomous University of Mexico,1551,Public,In-Person,356530,Mexico City,Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+28,National Centre for Distance Education,1939,Public,Distance,350000,,France,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+29,University System of Georgia,1931,Public,In-Person,318027,Georgia,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+30,University of Buenos Aires,1821,Public,In-Person,316050,Buenos Aires,Argentina,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+30,Minnesota State Colleges and Universities,1995,Public,In-Person,300000,Minnesota,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+31,Osmania University,1918,Public,In-Person,300000,"Hyderabad,  Telangana",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+32,National University of Distance Education,1972,Public,Hybrid,260079,,Spain,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+33,Rajiv Gandhi Technical University,1998,Public,In-Person,260000,"Bhopal,  Madhya Pradesh",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+34,Cairo University,1908,Public,In-Person,257200,Giza,Egypt,Africa,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+35,University of California system,1869,Public,In-Person,256000,California,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+36,City University of New York,1961,Public,In-Person,243000,New York,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+37,University of North Carolina system,1789,Public,In-Person,242000,North Carolina,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+38,University of Texas System,1881,Public,In-Person,221337,Texas,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+39,EstÃ¡cio de SÃ¡ University,1970,Private,In-Person,215000,"Rio de Janeiro,  Rio de Janeiro",Brazil,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+40,University of Guadalajara,1791,Public,In-Person,209406,"Guadalajara,  Jalisco",Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+41,University of Nuevo LeÃ³n,1933,Public,In-Person,206000,"Monterrey,  Nuevo LeÃ³n",Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+42,Open University,1969,Public,Hybrid,205420,Milton Keynes,United Kingdom,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+43,University of Applied Science and Technology,1992,Public,In-Person,200000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+44,Technical College System of Georgia,1970,Public,In-Person,191567,Georgia,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+45,Utah System of Higher Education,1894,Public,In-Person,189351,Utah,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+46,Russian Presidential Academy of National Economy and Public Administration,1977,Public,In-Person,180000,Moscow,Russian Federation,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+47,King Abdulaziz University,1976,Public,In-Person,177234,Jeddah,Saudi Arabia,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+48,Technical and Vocational University,1965,Public,In-Person,175000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+49,National Polytechnic Institute,1936,Public,In-Person,171581,Mexico City,Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+50,Autonomous University of Santo Domingo,1538,Public,In-Person,170530,,Santo Domingo,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+51,Ain Shams University,1950,Public,In-Person,170000,Cairo,Egypt,Africa,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+52,University of London,1836,Public,In-Person,170000,London,United Kingdom,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+53,Southern New Hampshire University,1932,Private,Hybrid,170000,New Hampshire,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+54,Illinois Board of Higher Education,1862,Public,In-Person,163786,Illinois,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+55,University of Wisconsin System,1848,Public,In-Person,162933,Wisconsin,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+56,Universiti Teknologi MARA,1956,Public,In-Person,160957,Shah Alam,Malaysia,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+57,University of the People,2009,Private,Distance,152000,California,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+58,Korea National Open University,1972,Public,Hybrid,151413,,South Korea,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+59,Dr. A.P.J. Abdul Kalam Technical University,2000,Public,In-Person,150000,"Lucknow,  Uttar Pradesh",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+60,Madhya Pradesh Bhoj Open University,1991,Public,Distance,150000,"Bhopal,  Madhya Pradesh",India,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+61,Sapienza University of Rome,1303,Public,In-Person,147000,Rome,Italy,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+62,University System of Maryland,1988,Public,In-Person,144363,Maryland,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+63,University of the Republic,1849,Public,In-Person,144108,Montevideo,Uruguay,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+64,Norte do ParanÃ¡ University,1972,Private,Hybrid,130000,"Londrina,  ParanÃ¡",Brazil,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+65,IU International University of Applied Sciences,1998,Private,Hybrid,130000,Erfurt,Germany,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+66,University of San Carlos of Guatemala,1676,Public,In-Person,124000,Guatemala City,Guatemala,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+67,University of Lyon,2007,Public,In-Person,120000,Lyon,France,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+68,UNIMINUTO system,1990,Private,Hybrid,116782,,Colombia,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+69,Texas A&M University System,1876,Public,In-Person,114691,Texas,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+70,National University of CÃ³rdoba,1613,Public,In-Person,113558,CÃ³rdoba,Argentina,South America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+71,Pennsylvania State System of Higher Education,1982,Public,In-Person,110428,Pennsylvania,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+72,Liberty University,1971,Private,Hybrid,110000,Virginia,United States,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+73,University of Toulouse,1229,Public,In-Person,110000,Toulouse,France,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+74,UniversitÃ© du QuÃ©bec,1968,Public,In-Person,101915,Quebec,Canada,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+75,Virtual University of Pakistan,2002,Public,Distance,100000,"Lahore,  Islamabad",Pakistan,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+76,"Vietnam National University, Ho Chi Minh City",1995,Public,In-Person,98648,Ho Chi Minh City,Vietnam,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+77,University of Belgrade,1808,Public,In-Person,97696,Belgrade,Serbia,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+78,University of Vienna,1365,Public,In-Person,91715,Vienna,Austria,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+79,Monterrey Institute of Technology and Higher Education,1943,Private,In-Person,91200,"Monterrey,  Nuevo LeÃ³n",Mexico,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+80,University of Toronto,1827,Public,In-Person,88766,Toronto,Canada,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+81,Aristotle University of Thessaloniki,1925,Public,In-Person,88283,Thessaloniki,Greece,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+82,Polytechnic University of the Philippines,1904,Public,Hybrid,83328,,Philippines,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+83,Complutense University of Madrid,1293,Public,In-Person,83000,Madrid,Spain,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+84,Farhangian University,2012,Public,In-Person,80000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+85,Aix-Marseille University,1409,Public,In-Person,80000,Marseille,France,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+86,University of Hagen,1974,Public,Distance,69982,Hagen,Germany,Europe,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+87,UniversitÃ© de MontrÃ©al,1878,Public,Hybrid,67109,,Canada,North America,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+88,University of the Philippines,1908,Public,Hybrid,64144,,Philippines,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
+89,"Academic Center for Education, Culture and Research",1980,Private,In-Person,60000,,Iran,Asia,https://en.wikipedia.org/wiki/Indira_Gandhi_National_Open_University
